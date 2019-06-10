@@ -1,10 +1,10 @@
-## Приветствуем вас любитель JS.
+# Приветствуем вас любитель JS.
 
 На этом сайте я хочу поделиться с вами моими работами в програмировании JavaScript.
-# Тут представленные несколько работ
+## Тут представленные несколько работ
  - [Круговая центрифуга](https://lordostom.github.io/project/ellipseMove/) 
  - [Движение круга](https://lordostom.github.io/project/erzaem/)
- -
+ - [Тетрис](https://github.com/lordostom/lordostom.github.io/tree/master/project/tetris)
  
 
 - Bulleted
