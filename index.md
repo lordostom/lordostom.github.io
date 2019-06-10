@@ -1,12 +1,12 @@
 # Приветствуем вас любитель JS.
 
 На этом сайте я хочу поделиться с вами моими работами в програмировании JavaScript.
-## Тут представленные несколько работ
- - [**Круговая центрифуга**](https://lordostom.github.io/project/ellipseMove/) 
- - [**Движение круга**](https://lordostom.github.io/project/erzaem/)
- - [**Тетрис**](https://github.com/lordostom/lordostom.github.io/tree/master/project/tetris)
+## *Тут представленные несколько работ*
+ - [*Круговая центрифуга*](https://lordostom.github.io/project/ellipseMove/) 
+ - [*Движение круга*](https://lordostom.github.io/project/erzaem/)
+ - [*Тетрис*](https://github.com/lordostom/lordostom.github.io/tree/master/project/tetris)
  
-
+Надеюсь вам понравились мои работы . [img] (https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/1200px-Smiley.svg.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
