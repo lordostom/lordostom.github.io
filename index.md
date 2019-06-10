@@ -2,15 +2,10 @@
 
 На этом сайте я хочу поделиться с вами моими работами в програмировании JavaScript.
 ## Тут представленные несколько работ
- - [Круговая центрифуга](https://lordostom.github.io/project/ellipseMove/) 
- - [Движение круга](https://lordostom.github.io/project/erzaem/)
- - [Тетрис](https://github.com/lordostom/lordostom.github.io/tree/master/project/tetris)
+ - [**Круговая центрифуга**](https://lordostom.github.io/project/ellipseMove/) 
+ - [**Движение круга**](https://lordostom.github.io/project/erzaem/)
+ - [**Тетрис**](https://github.com/lordostom/lordostom.github.io/tree/master/project/tetris)
  
-
-- Bulleted
-- List
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
