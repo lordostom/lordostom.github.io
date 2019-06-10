@@ -1,6 +1,8 @@
 ## Приветствуем вас любитель JS.
 
-На этом сайте я хочу поделиться с вами моими работами в програмировании [Java Script](https://github.com/lordostom/lordostom.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+На этом сайте я хочу поделиться с вами моими работами в програмировании JavaScript.
+## Тут представленные несколько работ
+[круговая центрифуга ](lordostom.github.io/project/ellipseMove/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
