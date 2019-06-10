@@ -8,5 +8,5 @@
  
 Надеюсь вам понравились мои работы .
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/1200px-Smiley.svg.png" width=10 >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/1200px-Smiley.svg.png" width="10px" >
 
