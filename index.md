@@ -4,7 +4,7 @@
 ## *Тут представленные несколько работ*
  - [*Круговая центрифуга*](https://lordostom.github.io/project/ellipseMove/) 
  - [*Движение круга*](https://lordostom.github.io/project/erzaem/)
- - [*Тетрис*](https://github.com/lordostom/lordostom.github.io/tree/master/project/tetris)
+ - [*Тетрис*](https://lordostom.github.io/project/tetris/)
  
 Надеюсь вам понравились мои работы . [img] (https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/1200px-Smiley.svg.png)
 ### Markdown
