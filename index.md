@@ -2,8 +2,9 @@
 
 На этом сайте я хочу поделиться с вами моими работами в програмировании JavaScript.
 ## Тут представленные несколько работ
-## Header 1 [круговая центрифуга ](lordostom.github.io/project/ellipseMove/) 
-
+ 1. [Круговая центрифуга](lordostom.github.io/project/ellipseMove/) 
+ 2. [Движение круга](lordostom.github.io/project/erzaem/)
+ 3.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
