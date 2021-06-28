@@ -1,6 +1,6 @@
 let x = 0;
 let y = 0;
-
+let color ="blue";
 let zx = 10;
 let zy = 10;
 
@@ -18,30 +18,25 @@ function draw() {
 	//+"добавить условие если мяч пролетает за ракетку цвет ее красный"...
 	background("black");
 	push();
-	fill("blue");
-	rect(200, y, 35, 200);
+	fill(color);
+	rect(200, ydoska, 35, 200);
 	if (keyIsPressed) {
 		if (keyCode === 38) { //up 
-			if (y > 1) {
-				y = y - 20;
+			if (ydoska > 1) {
+				ydoska = ydoska - 20;
 			}
 		}
 		if (keyCode === 40) { //down
-			if (y < height - 200) {
-				y = y + 20;
+			if (ydoska < height - 200) {
+				ydoska = ydoska + 20;
 			}
 		}
 	}
 	pop();
 
-
-
-
-
-
 //мячик 
 
-push();
+	push();
 	fill("red");
 	ellipse(xellipse, yellipse, 50, 50);
 	xellipse = xellipse + zx;
