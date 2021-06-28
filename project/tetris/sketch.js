@@ -39,12 +39,33 @@ function draw() {
 
 //мячик 
 
-
-	push();
+push();
 	fill("red");
-	ellipse(x, windowWidth / 3, 50, 50);
-	x = x + zx;
-	if (x > windowWidth) zx = -10;
-	if (x < 11) zx = 18;
+	ellipse(xellipse, yellipse, 50, 50);
+	xellipse = xellipse + zx;
+    yellipse =yellipse +zy;
+	
+    if (xellipse > width) zx = -20;
+	if (xellipse < 11){
+		color="red";
+		zx = 22;
+	}
+	if (xellipse >200){
+		 		color="blue";}
+    if (yellipse> height) zy= -10;
+    if (yellipse< 11) zy= 10;
+
+    if (xellipse< 260 && ydoska< yellipse && yellipse<ydoska+200 ) {
+     
+      /*if (y< windowHeight / 3) {
+           
+        if (windowHeight / 3<y+200) {
+          zx=10;
+       }
+       
+       
+    }
+     }*/
+    zx=10;}
 	pop();
 }
