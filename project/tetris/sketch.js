@@ -6,6 +6,8 @@ let zy = 10;
 
 let xdoska = 0;
 let ydoska = 0;
+let xellipse=20;
+let yellipse = 100;
 
 function setup() {
 	createCanvas(windowWidth, windowHeight);
